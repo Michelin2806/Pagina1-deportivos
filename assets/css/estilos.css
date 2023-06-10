@@ -145,7 +145,7 @@ textarea{
 form{
     display: block;
     float: left;
-    margin-right: 150px;
+    margin-right: 1%;
     margin-left: 1%;
 }
 
@@ -154,5 +154,6 @@ iframe{
     border-radius: 5px;
 }
 .map{
-    margin-left: 22%;
+    display: table;
+    margin: auto;
 }
